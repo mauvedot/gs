@@ -1,7 +1,7 @@
 {
   "6": {
     "inputs": {
-      "text": "t-pose",
+      "text": "%%PROMPT%%",
       "clip": [
         "38",
         0
@@ -272,7 +272,7 @@
   },
   "268": {
     "inputs": {
-      "data": ""
+      "data": "%%B64IMAGE%%"
     },
     "class_type": "LoadImageFromBase64",
     "_meta": {
