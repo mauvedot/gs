@@ -276,7 +276,7 @@
     },
     "class_type": "LoadImageFromBase64",
     "_meta": {
-      "title": "Load Image From Base64"
+      "title": "b64_image"
     }
   }
 }
