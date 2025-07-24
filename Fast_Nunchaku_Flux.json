@@ -30,7 +30,10 @@
   },
   "31": {
     "inputs": {
-      "seed": 0,
+      "seed": [
+        "269",
+        0
+      ],
       "steps": 20,
       "cfg": 1,
       "sampler_name": "euler",
@@ -141,6 +144,17 @@
     "class_type": "EmptyLatentImage",
     "_meta": {
       "title": "Empty Latent Image"
+    }
+  },
+  "269": {
+    "inputs": {
+      "min_value": 0,
+      "max_value": 1,
+      "seed": 797240
+    },
+    "class_type": "FL_RandomNumber",
+    "_meta": {
+      "title": "FL Random Number"
     }
   }
 }
