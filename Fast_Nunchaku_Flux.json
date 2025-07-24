@@ -30,7 +30,7 @@
   },
   "31": {
     "inputs": {
-      "seed": 0,
+      "seed": 538021255414595,
       "steps": 20,
       "cfg": 1,
       "sampler_name": "euler",
@@ -130,28 +130,6 @@
     "class_type": "NunchakuFluxDiTLoader",
     "_meta": {
       "title": "Nunchaku FLUX DiT Loader"
-    }
-  },
-  "195": {
-    "inputs": {
-      "PowerLoraLoaderHeaderWidget": {
-        "type": "PowerLoraLoaderHeaderWidget"
-      },
-      "lora_1": {
-        "on": false,
-        "lora": "Flux_Turbo_LoRA.safetensors",
-        "strength": 1
-      },
-      "lora_2": {
-        "on": false,
-        "lora": "Hyper-FLUX.1-dev-8steps-lora.safetensors",
-        "strength": 1
-      },
-      "➕ Add Lora": ""
-    },
-    "class_type": "Power Lora Loader (rgthree)",
-    "_meta": {
-      "title": "Power Lora Loader (rgthree)"
     }
   },
   "268": {
