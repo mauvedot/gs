@@ -150,7 +150,7 @@
     "inputs": {
       "min_value": 0,
       "max_value": 1,
-      "seed": 797240
+      "seed": 989872
     },
     "class_type": "FL_RandomNumber",
     "_meta": {
